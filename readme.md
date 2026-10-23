@@ -4,4 +4,4 @@
 
 #### features to add (windows app):
 - 3d models generation
-- Music/soundeffects/speech generation
+- video generation
